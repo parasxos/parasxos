@@ -6,7 +6,7 @@ Paris Moschovakos is Head of Detector Controls for the ATLAS experiment at CERN 
 
 - [quasar](https://github.com/quasar-team/quasar) — generates complete C++ OPC UA servers from a single design file (lead developer)
 - [cpp26-adapter](https://github.com/parasxos/cpp26-adapter) — C++26 specialist assistant with compiler-honest verification (author)
-- [email-mcp](https://github.com/parasxos/email-mcp) — Apple Mail MCP server for LLM agents (author)
+- [apple-mail-mcp](https://github.com/parasxos/apple-mail-mcp) — Apple Mail MCP server for LLM agents (author)
 
 **Elsewhere**
 
